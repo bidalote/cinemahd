@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<style>
+		* {
+			background-color: transparent;
+		}
+	</style>
+	<script>
+		var href;
+		if ( screen.height === 720 ) {
+			href = 'file:///home/web/index.html';
+		} else {
+			href = 'file:///home/web/index.html'
+		}
+		location.href = href + location.search + location.hash;
+	</script>
+</body>
+</html>
