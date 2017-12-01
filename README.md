@@ -1,2 +1,2 @@
-# cinemahd
-Cinema HD App Stalker Middleware v5.*
+# Сервисы
+СЕРВИСЫ App Stalker Middleware v5.*
