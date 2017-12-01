@@ -1,5 +1,5 @@
 {
-  "name": "CINEMA HD",
+  "name": "СЕРВИСЫ",
   "date": "2017.11.30",
   "version": "1.0.0",
   "description": "Cinema HD is an online cinema with video content that has a total 20 TB. A large part of the Cinema HD collection is available to users free of charge.",
@@ -14,12 +14,11 @@
     "type": "app",
     "category": "apps",
     "backgroundColor": "#171717",
-    "name": "CINEMA HD",
+    "name": "СЕРВИСЫ",
     "legacy": true,
     "description": "Cinema HD is an online cinema with video content that has a total 20 TB. A large part of the Cinema HD collection is available to users free of charge.",
     "icons": {
       "paths": {
-        "480": "img/480/",
         "576": "img/576/",
         "720": "img/720/",
         "1080": "img/1080/"
